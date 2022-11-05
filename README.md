@@ -29,3 +29,7 @@
  <h1>:zap: My Stats:</h1>
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tofiqaskerov&theme=onedark&border_radius=7.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofiqaskerov&show_icons=true&theme=radical)
+
+
