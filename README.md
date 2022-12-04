@@ -34,5 +34,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofiqaskerov&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/tofiqaskerov/tofiqaskerov/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tofiqaskerov/tofiqaskerov/blob/output/github-contribution-grid-snake.svg)
 
