@@ -30,7 +30,7 @@
   
  <h1>:zap: My Stats:</h1>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tofiqaskerov&theme=dark&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tofiqaskerov&theme=dark&border_radius=4.2)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofiqaskerov&show_icons=true&theme=radical)
 
