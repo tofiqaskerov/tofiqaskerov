@@ -19,16 +19,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp"  alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net"  alt=".Net" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NetCore"  alt=".NetCore" width="40" height="40"/>&nbsp;
 
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
 </div>
   
+  
+
  <h1>:zap: My Stats:</h1>
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=tofiqaskerov&theme=dark)](https://git.io/streak-stats)
