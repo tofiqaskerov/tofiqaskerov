@@ -37,9 +37,9 @@
 
  <h1>:zap: My Stats:</h1>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tofiqaskerov&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=tofiqaskerov&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofiqaskerov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofiqaskerov&layout=compact)
 
 ![Snake animation](https://github.com/tofiqaskerov/tofiqaskerov/blob/output/github-contribution-grid-snake.svg)
 
