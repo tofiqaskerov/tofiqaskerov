@@ -47,6 +47,7 @@ I build API-driven backend services and interactive web applications with a stro
 > *Secure vault-style web interface.*
 * **Engineering:** Prioritized rigid UI structure and secure data organization approaches.
 * **Stack:** HTML, CSS, JavaScript
+* 🔗 [View Portfolio Website](https://https://gvault.onrender.com/)
 
 ---
 
