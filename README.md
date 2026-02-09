@@ -1,49 +1,69 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
+<div align="center">
+
+# Hi there, I'm Askarov 👋
+### Full-Stack Software Developer
+
+**Backend & API Architecture Focus**
+
+I build API-driven backend services and interactive web applications with a strong focus on **clean architecture**, **performance optimization**, and **maintainable code**. My primary technical stack leverages **Java Spring Boot** for robust backend systems and modern **TypeScript/React** for dynamic frontends.
+
+[View Portfolio Website](https://portfolio-teal-one-hkqgnacl4i.vercel.app) • [Connect on LinkedIn](https://www.linkedin.com/in/tofiq-askerov-25a384223/)
+
 </div>
-<div align="center"><h1>:wave: Hi, I'm TOFIQ</h1></div>
+
+---
+
+### 🛠️ Technical Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend Engineering** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
+| **Frontend Development** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
+
+---
+
+### 🚀 Selected Projects
+
+#### **Portfolio** (Interactive 3D Web App)
+> *An immersive developer portfolio featuring 3D elements and parallax scrolling.*
+* **Engineering:** Implemented a component-based architecture with a heavy focus on performance-optimized visual scenes using Three.js.
+* **Stack:** TypeScript, React, Three.js, Tailwind
+* 🔗 [**View Repository**](https://github.com/tofiqaskerov/Portfolio)
+
+#### **Coffo** (Responsive Frontend)
+> *A structured, responsive website project.*
+* **Engineering:** Developed a structured layout system and reusable UI sections to ensure consistency across devices.
+* **Stack:** HTML, CSS, JavaScript
+* 🔗 [**View Repository**](https://github.com/tofiqaskerov/Coffo)
+
+#### **ShiftFlow** (Private Source)
+> *Java workflow logic engine.*
+* **Engineering:** Focused on domain modeling and process flow design to handle complex logic states.
+* **Stack:** Java
+
+#### **GVault** (Private Source)
+> *Secure vault-style web interface.*
+* **Engineering:** Prioritized rigid UI structure and secure data organization approaches.
+* **Stack:** HTML, CSS, JavaScript
+
+---
+
+### ⚡ Current Focus
+
+* 🏗️ **Architecture:** Improving Spring Boot architecture patterns and API design principles.
+* 🎨 **Interaction:** Exploring advanced frontend interaction and WebGL with Three.js.
+* 💻 **Development:** actively building interactive portfolio features and scalable backend services.
+
+---
 
 <div align="center">
-  <a href="https://www.instagram.com/tofiqaskerov10/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-   <a href="https://www.linkedin.com/in/tofiq-askerov-25a384223/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  
+
+### 📫 Let's Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tofiq-askerov-25a384223/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tofiqaskerov71@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://portfolio-teal-one-hkqgnacl4i.vercel.app)
+
 </div>
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
- <h2>:fire: Skills:</h2>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg "  title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp"  alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net"  alt=".Net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NetCore"  alt=".NetCore" width="40" height="40"/>&nbsp;
-
-
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
-</div>
-  
-  
-
- <h2>:zap: My Stats:</h2>
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=tofiqaskerov&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofiqaskerov&layout=compact)
-
-![Snake animation](https://github.com/tofiqaskerov/tofiqaskerov/blob/output/github-contribution-grid-snake.svg)
-
