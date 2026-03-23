@@ -7,7 +7,7 @@
 
 I build API-driven backend services and interactive web applications with a strong focus on **clean architecture**, **performance optimization**, and **maintainable code**. My primary technical stack leverages **Java Spring Boot** for robust backend systems and modern **TypeScript/React** for dynamic frontends.
 
-[View Portfolio Website](https://portfolio-teal-one-hkqgnacl4i.vercel.app) • [Connect on LinkedIn](https://www.linkedin.com/in/tofiq-askerov-25a384223/)
+[View Portfolio Website](https://portfolio-teal-one-hkqgnacl4i.vercel.app) • [Connect on LinkedIn](https://www.linkedin.com/in/tofig-askarov-25a384223/)
 
 </div>
 
