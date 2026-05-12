@@ -24,6 +24,10 @@ I build API-driven backend services and interactive web applications with a stro
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/tofiqaskerov/tofiqaskerov/blob/output/github-contribution-grid-snake-dark.svg)
+
 ### 🚀 Selected Projects
 
 #### **Portfolio** (Interactive 3D Web App)
@@ -70,6 +74,4 @@ I build API-driven backend services and interactive web applications with a stro
 </div>
 
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/tofiqaskerov/tofiqaskerov/blob/output/github-contribution-grid-snake-dark.svg)
