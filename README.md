@@ -68,3 +68,8 @@ I build API-driven backend services and interactive web applications with a stro
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://portfolio-teal-one-hkqgnacl4i.vercel.app)
 
 </div>
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/tofiqaskerov/tofiqaskerov/blob/output/github-contribution-grid-snake.svg)
