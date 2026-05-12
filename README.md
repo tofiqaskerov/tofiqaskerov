@@ -7,7 +7,7 @@
 
 I build API-driven backend services and interactive web applications with a strong focus on **clean architecture**, **performance optimization**, and **maintainable code**. My primary technical stack leverages **Java Spring Boot** for robust backend systems and modern **TypeScript/React** for dynamic frontends.
 
-[View Portfolio Website](https://portfolio-teal-one-hkqgnacl4i.vercel.app) • [Connect on LinkedIn](https://www.linkedin.com/in/tofig-askarov-25a384223/)
+[View Portfolio Website](https://portfolio-teal-one-hkqgnacl4i.vercel.app) • [Connect on LinkedIn](https://www.linkedin.com/in/tofig-askarov/)
 
 </div>
 
@@ -63,7 +63,7 @@ I build API-driven backend services and interactive web applications with a stro
 
 ### 📫 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tofiq-askerov-25a384223/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tofig-askarov/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tofiqaskerov71@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://portfolio-teal-one-hkqgnacl4i.vercel.app)
 
